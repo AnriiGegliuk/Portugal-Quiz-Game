@@ -16,6 +16,6 @@ Please check my Replit to test this game: https://replit.com/@AndriiGegliuk/Port
 ![image](https://user-images.githubusercontent.com/120349975/207785048-8d6299ce-fdc5-404d-8482-af2ef0b26005.png)
 
 
-# When you guess district name: 
+# Screen each tome you guess district name: 
 
 ![image](https://user-images.githubusercontent.com/120349975/207785278-911c6330-4739-41cf-8f5f-2fad87df8f85.png)
